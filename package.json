@@ -1,9 +1,11 @@
 {
   "name": "render-ip-geo-redirect",
   "version": "1.0.0",
+  "description": "Logs visitor IP and redirects",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "axios": "^1.6.0"
